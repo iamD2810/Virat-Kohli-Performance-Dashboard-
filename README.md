@@ -18,8 +18,11 @@ The data used in this project was obtained from reliable cricket statistics data
 
 ## Usage
 1.Download the Power BI file (Virat_Kohli_Performance.pbix) from this repository.
+
 2.Open the file in Power BI Desktop.
+
 3.Explore the interactive dashboards and visualizations.
+
 4.Customize the visuals or analyses as needed.
 
 ## Contributing
